@@ -97,12 +97,13 @@
         <td><a href=""></a></td>
         <td><a href=""></a></td>
     </tr>
+  
     <tr>
         <td><strong>周边生态</strong></td>
         <td><a href="docs/guide/harbor.md">harbor</a></td>
         <td><a href="docs/guide/helm.md">helm</a></td>
         <td><a href="docs/guide/jenkins.md">jenkins</a></td>
-        <td><a href="docs/guide/gitlab/readme.md">gitlab</a></td>
+        <td><a href="docs/guide/gitlab/readme.md">gitlab</a></td>    
         <td><a href=""></a></td>
     </tr>
 </table>
@@ -120,6 +121,5 @@
 
 欢迎提[Issues](https://github.com/easzlab/kubeasz/issues)和[PRs](docs/mixes/HowToContribute.md)参与维护项目！感谢您的关注与支持！
 - [如何 PR](docs/mixes/HowToContribute.md)
-- [如何捐赠](docs/mixes/donate.md)
-
+- [如何捐赠](docs/mixes/donate.md)TEST GITHUB；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；；
 Copyright 2017 gjmzj (jmgaozz@163.com) Apache License 2.0, 详情见 [LICENSE](docs/mixes/LICENSE) 文件。
